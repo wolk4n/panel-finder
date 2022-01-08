@@ -7,5 +7,5 @@ Yazarak programı kurabilirsiniz.
 
 ## Programın Kullanımı
 `python3 panel-bulucu.py`<br>
-Yazarak programı çalıştırabilir ve gelen ekranda hedef sitenizi "`https://domain.com/`" şeklinde yazarak programı başlatabilirsiniz.<br>
+Yazarak programı çalıştırabilir ve gelen ekranda hedef sitenizi `https://domain.com/` şeklinde yazarak programı başlatabilirsiniz.<br>
 <img src="/img/panel.png"/>
