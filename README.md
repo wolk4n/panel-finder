@@ -6,6 +6,7 @@ Bu program girilen hedef sitenin admin panelini deneme/yanılma (brute-force) y�
 Yazarak programı kurabilirsiniz.
 
 ## Programın Kullanımı
-`python3 panel-bulucu.py`<br>
+`cd panel-bulucu`<br>
+`python3 panel-finder.py`<br>
 Yazarak programı çalıştırabilir ve gelen ekranda hedef sitenizi `https://domain.com/` şeklinde yazarak programı başlatabilirsiniz.<br>
 <img src="/img/panel.png"/>
