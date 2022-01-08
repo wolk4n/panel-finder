@@ -4,5 +4,5 @@ Bu program girilen hedef sitenin admin panelini deneme/yanılma (brute-force) y�
 ## Programın İndirilmesi ve Kullanımı
 `git clone https://github.com/wolkann/panel-bulucu.git` Yazarak programı kurabilirsiniz.<br>
 `cd panel-bulucu`<br>
-`python3 panel-finder.py` Yazarak programı çalıştırabilir ve gelen ekranda hedef sitenizi <strong><a href="https://github.com/wolkann/panel-bulucu/">https://domain.com/"</a></strong> şeklinde yazarak programı başlatabilirsiniz.<br>
+`python3 panel-finder.py` Yazarak programı çalıştırabilir ve gelen ekranda hedef sitenizi <strong>"https://örnek.com/"</strong> şeklinde yazarak programı başlatabilirsiniz.<br>
 <img src="/img/panel.png"/>
